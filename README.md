@@ -6,6 +6,8 @@ AutoRegression Integrated Moving Average with Explanatory Variables (ARIMAX) mod
 
 ### Reference:
 
-video: https://www.youtube.com/watch?v=tJ-O3hk1vRw 
+https://www.youtube.com/watch?v=tJ-O3hk1vRw 
 
-github: https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+
+https://github.com/silicon-valley-data-science/pydata-sf-2016-arima-tutorial
